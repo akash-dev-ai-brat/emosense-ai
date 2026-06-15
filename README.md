@@ -137,10 +137,10 @@ The CNN architecture uses 4 convolutional blocks followed by global average pool
 ### Emotion Detection Results
 | Angry Detection | Happy — 100% Confidence | Surprise Detection |
 |:-:|:-:|:-:|
-| ![Angry](assets/screenshot2-angry-detection.png) | ![Happy](assets/screenshot3-happy-webcam.png) | ![Surprise](assets/screenshot4-surprise-webcam.png) |
+| ![Angry](assets/screenshot2-angry-detection.png.png) | ![Happy](assets/screenshot3-happy-webcam.png.png) | ![Surprise](assets/screenshot4-surprise-webcam.png.png) |
 
 ### Webcam Capture Interface
-![Webcam UI](assets/screenshot5-webcam-ui.png)
+![Webcam UI](assets/screenshot5-webcam-ui.png.png)
 
 ---
 
